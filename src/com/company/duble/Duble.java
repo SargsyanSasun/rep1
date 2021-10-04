@@ -9,11 +9,11 @@ public class Duble {
         r = 10.8;
         pi = 3.1416;
         a = pi * r * r;
-        System.out.print("k" + a);
+        System.out.println("k = "  + a);
 
         double l = 3.0, k = 4.0;
         double c = Math.sqrt(l * l + k * k);
-        System.out.println(c);
+        System.out.println("c = " + c);
 
     }
 }

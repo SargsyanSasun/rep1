@@ -41,7 +41,7 @@ public class IntLong {
         System.out.println(" y u t " + y + " " + t );
         y = (int) u;
         System.out.println("u ev y " + y + " " + t);
-        System.out.println("duble darcnel  dyte.");
+        System.out.println("double darcnel  dyte.");
         t = (byte) u;
         System.out.println("t ev u " + u + " " + t);
 
