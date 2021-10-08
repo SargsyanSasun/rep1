@@ -37,6 +37,7 @@ public class FigurePainter {
             System.out.println();
             System.out.println();
 
+
          /*            *
                       * *
                      * * *
