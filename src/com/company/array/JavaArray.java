@@ -5,6 +5,7 @@ public class JavaArray {
 
     public static void main(String[] args){
 
+
      int[] month_days = new int[12];
       month_days[0]=31;
       month_days[1]=28;

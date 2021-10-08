@@ -4,6 +4,7 @@ public class JavaArrayTwoD {
 
     public static void main(String[] args) {
 
+
      int twoD [][] = new int[4][5];
      int i,j,k = 0;
         for (i = 0; i < 4; i++)
