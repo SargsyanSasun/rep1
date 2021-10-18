@@ -36,6 +36,7 @@ public class Practical {
                 System.out.print(text[i]);}}
 
 
+
     }
 }
 
