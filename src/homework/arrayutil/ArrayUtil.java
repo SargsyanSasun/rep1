@@ -6,6 +6,8 @@ public class ArrayUtil {
         for (int i = 0; i < array.length; i++) {
         System.out.print(array [i] +  ",");}
         System.out.println();
+        //
+
         int zoo = 0;
         int zoo1 = 0;
         System.out.print("մասիվի զույգ թվերը` ");
@@ -13,20 +15,30 @@ public class ArrayUtil {
             if(array[i] % 2 == 0){
         System.out.print(array[i] + " ");}}
         System.out.println();
+        //
+
         for (int i = 0; i <array.length ; i++) {
             if(array[i] % 2 == 0){
                 zoo++; }}
         System.out.println("մասիվի զույգ թվերի քանակը՝ " + zoo);
         System.out.print("մասիվի կենտ թվերը՝ ");
+
+        //
+
         for (int i = 0; i <array.length ; i++) {
             if(array[i] % 2 != 0){
                 System.out.print( array[i] + ", " ); }}
         System.out.println();
 
+        //
+
         for (int i = 0; i <array.length ; i++) {
             if(array[i] % 2 != 0){
                 zoo1++;}}
         System.out.println("կենտ թվերի քանակը՝ " + zoo1);
+
+         //
+
           int v;
           int b = 0;
         for (int i = 0; i <array.length ; i++) {
@@ -34,6 +46,9 @@ public class ArrayUtil {
             b = v + b;}
         System.out.print("մասիվի բոլոր էլեմենտների գումարը՝ " +b);
         System.out.println();
+
+        //
+
         int y;
         y = b / array.length;
         System.out.println("մասիվի միջին թվաբանականը՝ " + y);
@@ -49,3 +64,4 @@ public class ArrayUtil {
 
     }
 }
+
