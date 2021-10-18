@@ -62,6 +62,8 @@ public class ArrayUtil {
         System.out.println("մասիվի ամենամեծ արժեքը` " + max);
         System.out.print("մասիվի ամենափոքր արժեքը` " + min);
 
+
+
     }
 }
 
