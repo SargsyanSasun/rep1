@@ -78,7 +78,6 @@ public class FigurePainter {
                 System.out.print("* ");}
             System.out.println();
         }
-
     }
 
 }
