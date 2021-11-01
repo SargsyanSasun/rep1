@@ -31,7 +31,7 @@ public class PraciceHomeworTest {
 
         action.maxlength(lop=new int[]{1,2,3,} ,kol= new int[]{10, 20, 30,5});
 
-      System.out.println(action.bolshe);
+      System.out.println(action.maXlength);
 
 
     }

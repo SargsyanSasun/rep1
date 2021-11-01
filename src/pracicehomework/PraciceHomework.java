@@ -4,7 +4,7 @@ public class PraciceHomework {
     long seconds;
     int days;
     int nextNum;
-    int bolshe;
+    int maXlength;
     boolean trueFalse;
     int[] lop={};
     int[] kol={};
@@ -50,10 +50,10 @@ public class PraciceHomework {
 
         long maxlength(int[]lop, int[]kol) {
             if (lop.length > kol.length) {
-                return bolshe= lop.length;
+                return maXlength = lop.length;
             }
             if (kol.length > lop.length){
-                return bolshe= kol.length;
+                return maXlength = kol.length;
             }
             return 0;
         }
