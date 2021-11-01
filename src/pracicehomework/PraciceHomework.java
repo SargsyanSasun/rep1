@@ -56,5 +56,6 @@ public class PraciceHomework {
                 return maXlength = kol.length;
             }
             return 0;
+
         }
         }
