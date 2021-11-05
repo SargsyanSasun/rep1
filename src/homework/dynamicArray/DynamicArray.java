@@ -54,7 +54,5 @@ public class DynamicArray {
                     System.out.print(array[i]  + " ");}
             }
         }
-
-
     }
 
