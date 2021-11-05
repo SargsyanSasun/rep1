@@ -17,8 +17,7 @@ public class Practical {
         g = bolola.length - 1;
         if ('l' == bolola[g]) {
             System.out.println(true);
-        } else if ('l' != bolola[g]) ;
-        {
+        } else if ('l' != bolola[g])        {
             System.out.println(false);
         }
         //3

@@ -6,8 +6,7 @@ public class PraciceHomework {
     int nextNum;
     int maXlength;
     boolean trueFalse;
-    int[] lop={};
-    int[] kol={};
+
     //convert minute o second
         long convert(int minutes) {
         return seconds = minutes * 60;
