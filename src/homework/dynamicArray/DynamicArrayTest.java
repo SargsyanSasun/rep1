@@ -3,10 +3,17 @@ package homework.dynamicArray;
 public class DynamicArrayTest {
 
     public static void main(String[] args) {
-        DynamicArray da = new DynamicArray();
-        int[] array1 = {1,2,3,4,5,6,7,8,9,2};
-        da.setArray(array1);
-        da.getArray();
-        da.add(11);
+
+        DynamicArray da= new DynamicArray();
+
+        da.add(2);
+        da.add(20);
+        da.add(40);
+        da.add(66);
+
+        da.print();
+
+
     }
+
 }
