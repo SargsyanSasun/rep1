@@ -16,7 +16,6 @@ package bracechecker;
                 array[++size] = value;
             }
         }
-
         public int pop() {
             if (size < 0) {
                 System.out.println("stack-ը դատարկ է");

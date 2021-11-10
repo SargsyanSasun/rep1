@@ -58,7 +58,6 @@ public class BraceChecker {
               } else if(count1 < 0) {
                   b = ")" + " at " + index1;
               }
-
             if(count2 > 0){
                 a = "{";
             } else if(count2 < 0) {

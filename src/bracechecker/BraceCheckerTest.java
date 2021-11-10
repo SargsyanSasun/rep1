@@ -7,8 +7,6 @@ public class BraceCheckerTest {
         BraceChecker test = new BraceChecker("Hello { from (Java) ]");
         test.chack();
         System.err.println("Error: opened " + test.a + " but closed " + test.b);
-
-
     }
 
 }

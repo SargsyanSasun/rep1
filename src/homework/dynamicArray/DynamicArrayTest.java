@@ -10,7 +10,6 @@ public class DynamicArrayTest {
         da.add(20);
         da.add(40);
         da.add(66);
-
         da.print();
 
 
