@@ -19,11 +19,10 @@ public class AuthorStorageTest {
             System.out.println("Surname:");
             String email = myObj.nextLine();
             System.out.println("Email:");
-           // Integer age = myObj.nextInt();
-          //  System.out.println("Age:");
+            Integer age = myObj.nextInt();
+            System.out.println("Age:");
             String gender = myObj.nextLine();
             System.out.println("Gender:");
-            int age = 25;
             Author author = new Author(name,surName,email,age,gender);
             authorStorage.add(author);
             author.toString();
